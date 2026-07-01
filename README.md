@@ -21,10 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/suman11pal02-hash/leetcodesolution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0457-circular-array-loop](https://github.com/suman11pal02-hash/leetcodesolution/tree/master/0457-circular-array-loop) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/suman11pal02-hash/leetcodesolution/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/suman11pal02-hash/leetcodesolution/tree/master/0004-median-of-two-sorted-arrays) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/suman11pal02-hash/leetcodesolution/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -46,4 +48,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0457-circular-array-loop](https://github.com/suman11pal02-hash/leetcodesolution/tree/master/0457-circular-array-loop) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/suman11pal02-hash/leetcodesolution/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/suman11pal02-hash/leetcodesolution/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/suman11pal02-hash/leetcodesolution/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/suman11pal02-hash/leetcodesolution/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
