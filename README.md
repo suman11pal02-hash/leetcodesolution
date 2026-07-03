@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/suman11pal02-hash/leetcodesolution/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/suman11pal02-hash/leetcodesolution/tree/master/0048-rotate-image) |
 ## Linked List
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/suman11pal02-hash/leetcodesolution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0048-rotate-image](https://github.com/suman11pal02-hash/leetcodesolution/tree/master/0048-rotate-image) |
 | [0457-circular-array-loop](https://github.com/suman11pal02-hash/leetcodesolution/tree/master/0457-circular-array-loop) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/suman11pal02-hash/leetcodesolution/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Search
@@ -66,5 +68,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/suman11pal02-hash/leetcodesolution/tree/master/0048-rotate-image) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/suman11pal02-hash/leetcodesolution/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
