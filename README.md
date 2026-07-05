@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/suman11pal02-hash/leetcodesolution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0048-rotate-image](https://github.com/suman11pal02-hash/leetcodesolution/tree/master/0048-rotate-image) |
 | [0457-circular-array-loop](https://github.com/suman11pal02-hash/leetcodesolution/tree/master/0457-circular-array-loop) |
+| [1301-number-of-paths-with-max-score](https://github.com/suman11pal02-hash/leetcodesolution/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/suman11pal02-hash/leetcodesolution/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Search
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/suman11pal02-hash/leetcodesolution/tree/master/0010-regular-expression-matching) |
+| [1301-number-of-paths-with-max-score](https://github.com/suman11pal02-hash/leetcodesolution/tree/master/1301-number-of-paths-with-max-score) |
 ## Recursion
 |  |
 | ------- |
@@ -69,5 +71,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/suman11pal02-hash/leetcodesolution/tree/master/0048-rotate-image) |
+| [1301-number-of-paths-with-max-score](https://github.com/suman11pal02-hash/leetcodesolution/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/suman11pal02-hash/leetcodesolution/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
